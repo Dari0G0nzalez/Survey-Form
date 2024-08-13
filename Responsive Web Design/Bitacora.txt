@@ -1,0 +1,7 @@
+13/08   Testeando, y trasladando el codigo de Freecodecamp a un proyecto de vs code
+        A continuacion deberia poder usar github, git, y demas. 
+
+
+        git add . (. para todo)
+        git commit -m "cambios"
+        git push 
